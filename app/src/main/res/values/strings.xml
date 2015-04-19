@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AplikasiPertama4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="apakabar_dunia"> Apakabar Dunia!</string>
+    <string name="peuhaba_doenya">Eu Doenya, peu haba!</string>
+
+    <string name="tombol_terjemah_id">Terjemahkan</string>
+    <string name="tombol_terjemah_en">Translate</string>
+    <string name="tombol_terjemah_ac">Boeh Arti</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
